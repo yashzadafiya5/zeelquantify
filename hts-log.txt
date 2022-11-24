@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Nov 2022 15:03:01 at http://zeelquantify.in/Zeel/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://zeelquantify.in/Zeel/ -O1 "C:\My Web Sites\ankitsir" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:04:24	Error: 	"Read error when decompressing" (-1) at link zeelquantify.in/Zeel/assets/css/gallery.css (from zeelquantify.in/Zeel/)
+15:04:44	Error: 	"Read error when decompressing" (-1) at link zeelquantify.in/Zeel/assets/css/owl.video.play.png (from zeelquantify.in/Zeel/assets/css/owl-carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 43 seconds : 41 links scanned, 38 files written (2875908 bytes overall) [2835726 bytes received at 27531 bytes/sec], 77254 bytes transferred using HTTP compression in 5 files, ratio 31%, 2.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
